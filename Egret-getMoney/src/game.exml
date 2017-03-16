@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="game" width="640" height="1164" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="22_jpg" x="-11" y="0"/>
+	<e:Button id="restart" label="开始" x="226" y="887.79"/>
+	<e:Image source="hand_png" id="hand" x="190.18" y="783.6" rotation="337.71"/>
+</e:Skin>
